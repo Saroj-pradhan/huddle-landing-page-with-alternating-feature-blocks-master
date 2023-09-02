@@ -1,0 +1,133 @@
+.attribution { font-size: 11px; text-align: center; }
+    .attribution a { color: hsl(228, 45%, 44%); }
+body{
+      margin-left: 0;
+      margin-right: 0;
+    width: 375px;
+}
+.section-0{
+    background-image: url(images/bg-hero-mobile.svg);
+}
+.section-1{
+   
+   
+    margin: 2rem 1.2rem;
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+}
+.but1{
+    font-size: 0.6em;
+    background-color: white;
+    padding: 0.7em 1.6em;
+    border-radius: 25px;
+    border-style: none;
+}
+.nav{
+    margin: 2rem 1.2rem;
+}
+   
+    
+    .nav img{
+        height: 1.5rem;
+    width: 8rem;
+    }
+    .text-1st-section{
+        text-align: center;
+    }
+
+    .build-text{
+        font-size: 1.6rem;
+        font-weight: 600;
+        margin: 5rem 0.5rem 2rem 0.5rem;
+    }
+    .huddle-text{
+      
+    }
+    .but-col{
+        background-color:  hsl(322, 100%, 66%);
+        padding: 1em 3em;
+        border-radius: 25px;
+        border-style: none;
+       margin: 2rem;
+            }
+            .img-1 img{
+                max-width: 305px;
+                margin-bottom: 3rem;
+            }
+    .section-2{
+        text-align: center;
+        padding: 2rem 1.7rem;
+        
+    }
+    .section-2 p{
+        color: rgb(168, 166, 166);
+        font-size: 1.2rem;
+        
+        
+    }
+    .section-3{
+       position: absolute;
+        height: 14rem;
+        background-color:white ;
+        text-align: center;
+        border-radius: 25px;
+        margin: 2% 5%;
+    }
+    .ready{
+        font-size: 1.2rem;
+        padding-top: 4rem;
+    }
+    .butt{
+        padding:1rem 3rem;
+        background-color: hsl(322, 100%, 66%);
+        border-radius: 24px;
+        color: white;
+    }
+    
+    .last-section{
+        margin-top: 9rem;
+        background-color: hsl(192, 100%, 9%);
+        color: white;
+        padding: 8rem 1rem 1rem 1rem;
+    }
+    .logo-img{
+    color: white;
+    }
+    .logo-img img{
+        width: 12rem;
+        
+    }
+    .ls-1 img{
+        margin-top: 1.5rem;
+    width: 1rem;
+    height: 1rem;
+    }
+    .ls{
+        display: flex;
+        gap: 1rem;
+    }
+    .ls-2{
+        font-size: 1.2rem;
+    }
+    .noex img{
+     padding-right: 1.3rem;
+    }
+    .soc-med{
+        width: 6rem;
+       margin: 0 auto;
+       padding: 1rem 0rem;
+       
+        
+    }
+    .copryt{
+        text-align: center;
+        font-size: 0.7rem;
+    }
+    .flexp{
+        
+display: flex;
+gap: 1rem;
+
+    }
